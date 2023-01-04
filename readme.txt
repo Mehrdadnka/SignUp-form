@@ -1,5 +1,5 @@
 This is a sign up php and mysql and HTML
-program with sign up controler. I use a classless CSS style sheet 
+program with sign up controler. I used a classless CSS style sheet 
 for this project for fast developing.
 with this program you can create a
 sign up form with error checking and username and password validation.
