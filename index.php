@@ -23,8 +23,8 @@
                 echo $parag;
             ?>
         </p>
-        <footer>
-        <small>&copy; <?php echo date("Y"); ?>By Mehrdadnka</small>
-        </footer>
+        <?php
+            include'sys/footer.php';
+        ?>
     </body>
 </html>
