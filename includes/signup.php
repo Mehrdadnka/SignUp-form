@@ -28,5 +28,8 @@
             </div>
             <button type="submit" name="submit">Sign Up</button>
         </form>
+        <?php
+            include'../sys/footer.php';
+        ?>
     </body>
 </html>
