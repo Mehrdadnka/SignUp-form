@@ -1,5 +1,5 @@
 <?php
-    include'sys/config.php';
+    include'../sys/config.php';
 
     $conn = new mysqli( hostname: $host,
                         username: $username, 
