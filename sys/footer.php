@@ -1,3 +1,3 @@
 <footer>
-    <small>&copy; <?php echo date("Y"); ?> By Mehrdadnka</small>
+    <small>&copy; <?php echo date("Y"); ?> Mehrdadnka</small>
 </footer>
