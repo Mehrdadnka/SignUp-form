@@ -3,7 +3,7 @@
     <head>
         <?php
             include'../sys/head.php';
-            include'../sys/nav.php';
+            include'nav.php';
         ?>
     </head>
     <body>
