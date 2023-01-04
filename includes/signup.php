@@ -3,10 +3,12 @@
     <head>
         <?php
             include'../sys/head.php';
-            include'nav.php';
         ?>
     </head>
     <body>
+        <?php
+            include'nav.php';
+        ?>
         <h1>SignUp</h1>
         <!--disable html atribute validation-->
         <form action="process-signup.php" method="POST" novalidate>
