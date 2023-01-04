@@ -19,7 +19,7 @@
         <h1>HELLO...</h1>
         <p>
             <?php
-                $parag = file_get_contents('readme.txt','r') or die(‘ERROR: cannot find readme file’);
+                $parag = file_get_contents('readme.txt','r') or die(‘ERROR: cannot find file’);
                 echo $parag;
             ?>
         </p>
