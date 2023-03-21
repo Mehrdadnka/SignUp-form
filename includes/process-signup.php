@@ -120,4 +120,3 @@
         
         die($mysqli -> error . " " . $mysqli -> errno);
     }
-?>
